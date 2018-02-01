@@ -10,7 +10,7 @@
 body {
     width: 600px;
     margin: 0px auto;
-    padding-top: 36pt;
+    padding-top: 3.5em;
 }
 
 header {
@@ -18,11 +18,15 @@ header {
 }
 
 section {
-    margin-left: 36pt;
+    margin-left: 3.5em;
 }
 
 header, section {
     margin-bottom: 2em;
+}
+
+h3, time {
+    display: inline-block;
 }
 
 table {
