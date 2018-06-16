@@ -4,9 +4,9 @@
 
 I have been programming for over ten years, and have gained a wide variety of invaluable experience, from growing my passion for computers and programming outside of work, to studying at Cambridge and to working with a small fast-moving team at Createc.
 
-I have deep experience with C/C++, Linux and GPU Programming. I am also familiar with a wide range of programming environments, from powerful multi-gpu systems training deep, convolutional neural networks, to real-time, aerial, embedded processors. I have worked successfully with Physicists, Engineers and other Developers to implement large, complex systems.
+I have deep experience with C, C++, Python, Linux and GPU Programming. I am also familiar with a wide range of programming environments, from powerful multi-gpu systems training deep CNNs, to real-time, aerial, embedded processors. I have worked successfully with Physicists, Engineers and other Developers to implement large, complex systems.
 
-In my spare time I have developed a ray-tracer for GPUs, written a compact operating system in x86 Assembly, created a small 8-bit processor for an FPGA using Verilog and deployed a web site/server with a database, written in Go. I also have experience using ROS, OpenGL and Caffe.
+In my spare time I have developed a raytracer for GPUs, written a compact operating system in x86 Assembly, created a small 8-bit processor for an FPGA using Verilog and deployed a web site/server with a database, written in Go. I also have experience using ROS, OpenGL and Caffe.
 
 I also tinker with Arduino and Raspberry Pi projects in my spare time
 
