@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
- weasyprint index.html cv.pdf
+set -ex
+weasyprint index.html cv.pdf
